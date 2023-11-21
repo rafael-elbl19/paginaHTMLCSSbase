@@ -1,0 +1,81 @@
+html{
+    font-family: Helvetica;
+    background-color: #707070;
+}
+
+.container{
+    max-width: 1300px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.header{  
+    text-align: center;
+}
+
+.main-title {
+    font-size: 350%;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+.principal {
+    max-width: 1200px;
+    margin-bottom: 20px;
+}
+
+.principal-image {
+    margin-top: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.about-car {
+    padding: 25px 0;
+    margin: 20px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.quotes-container {
+    background-color: #ddd;
+    padding: 30px;
+    text-align: center;
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.curiosities-container {
+    padding: 25px 0;
+    margin: 20px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.curiosities-container li {
+    height: 30px;
+}
+
+.img-bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+.img-bold figure figcaption {
+    padding: 10px 20px;
+}
+
+.moreinfo-container {
+    text-align: center;
+}
